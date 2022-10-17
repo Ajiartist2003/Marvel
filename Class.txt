@@ -3,3 +3,6 @@ print(10<9)
 add=False
 print(add)
 print(type(add))
+name=Jerry
+no=3
+print("Hello"+name,no)
